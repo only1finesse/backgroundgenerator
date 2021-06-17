@@ -7,5 +7,17 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Stanley",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/only1finesse/backgroundgenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/only1finesse/backgroundgenerator/issues"
+  },
+  "homepage": "https://github.com/only1finesse/backgroundgenerator#readme"
 }
